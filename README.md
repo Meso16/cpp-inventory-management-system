@@ -9,8 +9,8 @@ An individual C++ project developed as part of my coursework at Aptech Computer 
 - Track item quantities
 - Store and save inventory data
 
-  ##Technologies
-  -C++
+## Technologies
+  - C++
 ## What I Learned 
 This project has helped me practice programming fundamentals, data management and logical problem-solving 
 
